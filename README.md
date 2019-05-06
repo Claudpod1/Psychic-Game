@@ -1,2 +1,2 @@
 # Psychic-Game
-90's theme Word Guess Game 
+Guess the letter game. 
